@@ -1,0 +1,16 @@
+{
+    "properties": [
+        {
+            "autoExecute": true, 
+            "filename": "examples/Example-JsonArgSending.mts"
+        }, 
+        {
+            "autoExecute": true, 
+            "filename": "examples/Example-JsonArgParsing.mts"
+        }, 
+        {
+            "autoExecute": true, 
+            "filename": "public/ParseNargs.mts"
+        }
+    ]
+}

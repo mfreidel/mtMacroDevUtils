@@ -1,0 +1,14 @@
+{
+  "name": "mtMacroDevUtils",
+  "version": "0.1.1",
+  "website": "",
+  "gitUrl": "https://github.com/mfreidel/mtMacroDevUtils",
+  "authors": ["Michael J. Freidel"],
+  "license": "BSD 3-Clause",
+  "namespace": "mf.dev.utils",
+  "description": "A collection of various macros that handle common operations. Most are intended to be called with the MACRO() roll option.",
+  "shortDescription": "Mike's MT Macro Utilities",
+  "allowsUriAccess": true,
+  "licenseFile": "LICENSE",
+  "readMeFile": "README.md"
+}
